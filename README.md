@@ -11,7 +11,7 @@
 
 "MENTOR" : NEELA SANTOSH
 
-"DESCRIBED ABOUT THE TASK"
+# DESCRIBED ABOUT THE TASK
 
 This project focuses on developing a File Integrity Monitoring (FIM) System using Python to track changes in files within a specified directory. As data security becomes increasingly important, detecting unauthorized or accidental modifications to files is essential. This system uses cryptographic hash functions to ensure the integrity of files and identify any changes in real time.
 
