@@ -32,3 +32,6 @@ The project is built using standard Python libraries such as os, time, and hashl
 This File Integrity Monitoring System has several practical applications. It can be used to safeguard important documents, monitor shared file directories, track changes in system configuration files, and help detect malware or unauthorized user activity. It is especially useful in cybersecurity environments where data integrity and access monitoring are crucial.
 
 In conclusion, the project successfully demonstrates how hashing and directory scanning techniques can be combined in Python to create a functional file integrity monitoring tool. The system is simple, efficient, and effective for real-time change detection. It can also be expanded with additional features such as logging, GUI interface, or email notifications. Overall, this project provides a strong foundation for understanding file integrity, hashing algorithms, and security monitoring concepts.
+
+# OUTPUT
+<img width="1391" height="350" alt="Image" src="https://github.com/user-attachments/assets/c83a7dad-007a-4b60-a171-9268fd636d79" />
