@@ -35,3 +35,6 @@ In conclusion, the project successfully demonstrates how hashing and directory s
 
 # OUTPUT
 <img width="1391" height="350" alt="Image" src="https://github.com/user-attachments/assets/c83a7dad-007a-4b60-a171-9268fd636d79" />
+
+# OUTPUT OF GUI VERSION
+<img width="923" height="657" alt="Image" src="https://github.com/user-attachments/assets/de82136c-22cd-4dfa-9c28-f5aa48a0eee1" />
